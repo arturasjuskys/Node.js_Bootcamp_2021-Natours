@@ -1,3 +1,3 @@
 # Natours Application
 
-Built using modern technologies: node.js, expresss, mongoDB, mongoose
+This application is hosted on [Heroku](https://www.heroku.com/) and can be visited over [here](https://natours-arturas.herokuapp.com/).
